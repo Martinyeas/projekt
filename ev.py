@@ -1,9 +1,6 @@
 ev = [2984,2348,2069,2204,2418,2037,2092,2495,2487,2827,2305,2650]
 
-#ev = False
-
 if len(ev) == 12:
-    #ev = True
     print(f"ez egy év adatsora")
 else:
     print(f"ez nem egy év adatsora")
