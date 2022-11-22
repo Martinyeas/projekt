@@ -1,0 +1,7 @@
+Legnagyobb : 41
+Legkisebb : 23
+Összesen : 31
+31 alatt : 10
+átlag : 0.967741935483871
+20. : 30
+hőingadozás: 18

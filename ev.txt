@@ -1,0 +1,4 @@
+Legnagyobb: 2984
+Legkisebb: 2037
+Összesen: 12
+2400 alatt: 6
